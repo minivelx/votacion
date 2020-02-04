@@ -35,7 +35,6 @@ namespace WebApiVotacion.Controllers
             _rolManager = rolManager;
             _configuration = configuration;
             _context = context;
-
         }
 
         [HttpGet]
