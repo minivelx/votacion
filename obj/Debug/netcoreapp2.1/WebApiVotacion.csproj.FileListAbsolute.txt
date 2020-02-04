@@ -1,0 +1,14 @@
+C:\Users\sedic\source\repos\WebApiVotacion\bin\Debug\netcoreapp2.1\WebApiVotacion.deps.json
+C:\Users\sedic\source\repos\WebApiVotacion\bin\Debug\netcoreapp2.1\WebApiVotacion.runtimeconfig.json
+C:\Users\sedic\source\repos\WebApiVotacion\bin\Debug\netcoreapp2.1\WebApiVotacion.runtimeconfig.dev.json
+C:\Users\sedic\source\repos\WebApiVotacion\bin\Debug\netcoreapp2.1\WebApiVotacion.dll
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.csprojAssemblyReference.cache
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.csproj.CoreCompileInputs.cache
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.RazorAssemblyInfo.cache
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.RazorAssemblyInfo.cs
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.AssemblyInfoInputs.cache
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.AssemblyInfo.cs
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.RazorTargetAssemblyInfo.cache
+C:\Users\sedic\source\repos\WebApiVotacion\bin\Debug\netcoreapp2.1\WebApiVotacion.pdb
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.dll
+C:\Users\sedic\source\repos\WebApiVotacion\obj\Debug\netcoreapp2.1\WebApiVotacion.pdb
