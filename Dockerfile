@@ -6,7 +6,7 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2-stretch AS build
 WORKDIR /src
 COPY ["WebApiVotacion.csproj", "WebApiVotacion/"]
-RUN dotnet restore "WebApiVotacion.csproj"
+RUN dotnet restore "WebApiVotacion/WebApiVotacion.csproj"
 COPY . .
 WORKDIR "/src/WebApiVotacion"
 RUN dotnet build "WebApiVotacion.csproj" -c Release -o /app
